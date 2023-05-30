@@ -1,0 +1,42 @@
+421  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui
+405  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui
+405  [main] WARN  com.jalian.contact.config.Config - you should have a properties file with name configuration system if you dont, you cant use app
+437  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui
+452  [main] WARN  com.jalian.contact.config.Config - you should have a properties file with name configuration system if you dont, you cant use app
+452  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+405  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui
+421  [main] WARN  com.jalian.contact.config.Config - you should have a properties file with name configuration system if you dont, you cant use app
+421  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+421  [main] WARN  c.j.contact.dao.dataBase.DataBase - connecting to database started
+421  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui
+421  [main] WARN  com.jalian.contact.config.Config - you should have a properties file with name configuration system if you dont, you cant use app
+421  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+436  [main] WARN  c.j.contact.dao.dataBase.DataBase - connecting to database started
+468  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui
+484  [main] WARN  com.jalian.contact.config.Config - you should have a properties file with name configuration system if you dont, you cant use app
+484  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+484  [main] WARN  c.j.contact.dao.dataBase.DataBase - connecting to database started
+405  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui
+421  [main] WARN  com.jalian.contact.config.Config - you should have a properties file with name configuration system if you dont, you cant use app
+421  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+421  [main] WARN  c.j.contact.dao.dataBase.DataBase - connecting to database started
+671  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui *****************************************
+702  [main] WARN  com.jalian.contact.config.Config - you should have a properties file with name configuration system if you dont, you cant use app
+702  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+702  [main] WARN  c.j.contact.dao.dataBase.DataBase - connecting to database started
+8394 [main] INFO  com.jalian.contact.ui.Ui - Main finished*******************************************
+453  [main] WARN  com.jalian.contact.config.Config - you should have a properties file with name configuration system if you dont, you cant use app
+453  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui *****************************************
+468  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+468  [main] WARN  c.j.contact.dao.dataBase.DataBase - connecting to database started
+575  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui *****************************************
+585  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+585  [main] WARN  c.j.contact.dao.dataBase.DataBase - connecting to database started
+5715 [main] INFO  com.jalian.contact.ui.Ui - Main finished********************66666666***********************
+404  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui *****************************************
+414  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+414  [main] WARN  c.j.contact.dao.dataBase.DataBase - connecting to database started
+20837 [main] INFO  com.jalian.contact.ui.Ui - Main finished********************66666666***********************
+733  [main] INFO  com.jalian.contact.ui.Ui - Main started Ui *****************************************
+733  [main] INFO  com.jalian.contact.config.Config - you must set store mode Config
+748  [main] WARN  c.j.contact.dao.dataBase.DataBase - connecting to database started
